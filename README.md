@@ -10,10 +10,12 @@ Results:
 
 Total Confirmed Cases
 <img src="https://github.com/samarth1100/Covid_19_Data_Analysis_INDIA/blob/main/Confirmed%20cases.png">
+
 We see that the total confirmed in Maharashtra is the highest up till date 6 August 2021.
 
 Death Cases
 <img src="https://github.com/samarth1100/Covid_19_Data_Analysis_INDIA/blob/main/death%20cases.jfif">
+
 Maharashtra having the highest number of confirmed cases, also shows highest death ratio. We see that second highest is kerala, but the death ratio in kerala is not that high. 
 
 Active Cases
